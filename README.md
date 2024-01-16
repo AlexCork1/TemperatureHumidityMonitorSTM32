@@ -1,4 +1,4 @@
-# STM32 One-Wire Communication with DHT22 (AM2302) Sensor
+# STM32F4 Communication with DHT22 (AM2302) Sensor
 ## Overview
 This project, implemented in the C programming language using STM32CubeIDE and STM32F4 registers, focuses on establishing "one-wire" communication with the DHT22 (AM2302) temperature and humidity sensor. The collected data is then transmitted over UART to a receiver device, such as a PC or other compatible devices, formatted in JSON.
 
